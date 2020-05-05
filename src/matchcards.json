@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./assets/images/maxwell.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/wendy.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/wes.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/wickerbottom.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/wilbur.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/willow.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/wilson.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/wolfgang.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/woodie.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/woodlegs.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/wortox.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/wx78.png",
+        "clicked": false
+    }
+]
