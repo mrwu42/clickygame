@@ -84,7 +84,7 @@ class App extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Clickity Game</Title>
+                <Title>Clicky Game</Title>
         
                 <h3 className="scoreSummary">
                     {this.state.clickMessage}
